@@ -7,7 +7,7 @@ public class Main {
         }
 
         else if (mediaFinal == 6) {
-            System.out.println("QUASE MAIS PASSOU, SORTE ");
+            System.out.println("a QUASE MAIS PASSOU, SORTE ");
         }
 
         else{
