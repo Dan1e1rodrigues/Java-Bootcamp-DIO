@@ -4,7 +4,10 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Java-Bootcamp-DIO.iml" filepath="$PROJECT_DIR$/.idea/Java-Bootcamp-DIO.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-atividade/java-atividade.iml" filepath="$PROJECT_DIR$/java-atividade/java-atividade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/daniel/nome/nome.iml" filepath="$PROJECT_DIR$/daniel/nome/nome.iml" />
+      <module fileurl="file://$PROJECT_DIR$/daniel/nome/primeiraSemana/primeiraSemana.iml" filepath="$PROJECT_DIR$/daniel/nome/primeiraSemana/primeiraSemana.iml" />
       <module fileurl="file://$PROJECT_DIR$/sintaxe-Java/sintaxe-Java.iml" filepath="$PROJECT_DIR$/sintaxe-Java/sintaxe-Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tipos-variaveis/tipos-variaveis.iml" filepath="$PROJECT_DIR$/tipos-variaveis/tipos-variaveis.iml" />
     </modules>
   </component>
 </project>
