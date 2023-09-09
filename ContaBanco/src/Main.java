@@ -5,10 +5,10 @@ public class Main {
         Scanner saldo = new Scanner(System.in);
 
         System.out.println("Por favor, Digite seu nome : ");
-        String NomeCliente = saldo.nextLine();
+            String NomeCliente = saldo.nextLine();
 
         System.out.println("Por favor, digite o número da sua Agencia !!!: ");
-        int Numero = saldo.nextInt();
+            int Numero = saldo.nextInt();
 
         // Consuma a quebra de linha pendente.
 
@@ -21,10 +21,10 @@ public class Main {
         // corretamente.
 
         System.out.println("Qual a sua Agencia : ");
-        String Agencia = saldo.nextLine();
+            String Agencia = saldo.nextLine();
 
         System.out.println("Digite seu saldo : ");
-        double Saldo = saldo.nextDouble();
+            double Saldo = saldo.nextDouble();
 
         System.out.println("Óla " + NomeCliente +  " obrigado por criar uma conta em nosso banco, sua agência é " + Numero + " ,conta " + Agencia + " e seu saldo é " + Saldo + ", já está disponível para saque.");
     }

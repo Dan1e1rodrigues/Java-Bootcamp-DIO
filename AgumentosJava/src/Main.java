@@ -1,5 +1,5 @@
 public class Main {
-    public static void main(String[] args) {
-        System.out.println("OII !!! Fui executado pelo terminal !!!");
+    public int somar(int numeroum , int numerodois){
+        return numerodois + numeroum;
     }
 }

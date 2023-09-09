@@ -4,8 +4,8 @@ public class breakEcontinue {
             //Com isso o For será quebrado, em boas palavras será parado
             if (numero == 3)
 
-                continue;
-                //break;
+//                continue;
+                break;
 
             System.out.println(numero);
         }
