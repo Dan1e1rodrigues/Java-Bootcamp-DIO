@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AgumentosJava/AgumentosJava.iml" filepath="$PROJECT_DIR$/AgumentosJava/AgumentosJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BancoOrganizadorAtivos/BancoOrganizadorAtivos.iml" filepath="$PROJECT_DIR$/BancoOrganizadorAtivos/BancoOrganizadorAtivos.iml" />
       <module fileurl="file://$PROJECT_DIR$/CondicionaisSimples/CondicionaisSimples.iml" filepath="$PROJECT_DIR$/CondicionaisSimples/CondicionaisSimples.iml" />
       <module fileurl="file://$PROJECT_DIR$/ContaBanco/ContaBanco.iml" filepath="$PROJECT_DIR$/ContaBanco/ContaBanco.iml" />
       <module fileurl="file://$PROJECT_DIR$/Controle-de-Candidatos/Controle-de-Candidatos.iml" filepath="$PROJECT_DIR$/Controle-de-Candidatos/Controle-de-Candidatos.iml" />
@@ -17,6 +18,7 @@
       <module fileurl="file://$PROJECT_DIR$/execaoJava/execaoJava.iml" filepath="$PROJECT_DIR$/execaoJava/execaoJava.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-atividade/java-atividade.iml" filepath="$PROJECT_DIR$/java-atividade/java-atividade.iml" />
       <module fileurl="file://$PROJECT_DIR$/palavrasReservadasJava/palavrasReservadasJava.iml" filepath="$PROJECT_DIR$/palavrasReservadasJava/palavrasReservadasJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/saldoAtual/saldoAtual.iml" filepath="$PROJECT_DIR$/saldoAtual/saldoAtual.iml" />
       <module fileurl="file://$PROJECT_DIR$/sintaxe-Java/sintaxe-Java.iml" filepath="$PROJECT_DIR$/sintaxe-Java/sintaxe-Java.iml" />
     </modules>
   </component>
